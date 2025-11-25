@@ -21,7 +21,7 @@
 
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href=["https://www.linkedin.com/in/jose-luis-agamez-lopez-865667348/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BTsw0cjB%2BTdGh%2FFOUeiY%2BFw%3D%3D](https://www.linkedin.com/jobs/search/?currentJobId=4324282241&f_E=3&f_TPR=r86400&origin=JOB_SEARCH_PAGE_JOB_FILTER)">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/jobs/search/?currentJobId=4324282241&f_E=3&f_TPR=r86400&origin=JOB_SEARCH_PAGE_JOB_FILTER">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/xm8-alt">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -54,25 +54,3 @@
   <br>
 <br>
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
-
-<div align="Center">
-
-<h3 align="center">📊 Estadísticas de GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xm8-alt&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm8-alt&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-Credit: [Jose Luis Agamez Lopez](https://github.com/xm8-alt)  
-Última edición: 05/10/2025
