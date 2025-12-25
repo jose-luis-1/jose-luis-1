@@ -88,7 +88,7 @@ SENA · Montería, Córdoba
 
 ##  Portfolio Web
 
- **Portafolio profesional (HTML, CSS, JavaScript)**  
+ **[Portafolio profesional (HTML, CSS, JavaScript)](https://jose-luis-1.github.io/portfolio/)**  
 
 
  *Abierto a oportunidades como Desarrollador Junior de Software*
