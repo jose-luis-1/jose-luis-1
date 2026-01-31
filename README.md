@@ -48,7 +48,8 @@ Motivado por el crecimiento profesional dentro del sector tecnológico.
 **Lenguajes & Frameworks**
 - Java  
 - Spring Boot  
-- Angular  
+- Angular
+- react
 - TypeScript  
 - HTML5 · CSS3  
 
