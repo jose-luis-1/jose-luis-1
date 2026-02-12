@@ -29,6 +29,13 @@ Motivado por el crecimiento profesional dentro del sector tecnológico.
 
 ---
 
+##  Portfolio Web
+
+ **[Portafolio profesional (HTML, CSS, JavaScript)](https://jose-luis-1.github.io/portfolio/)**  
+
+
+
+
 ##  Experiencia Laboral
 
 ### Junior Software Developer  
@@ -86,10 +93,5 @@ SENA · Montería, Córdoba
 - Inglés: A2 (lectura técnica y comprensión básica)
 
 ---
-
-##  Portfolio Web
-
- **[Portafolio profesional (HTML, CSS, JavaScript)](https://jose-luis-1.github.io/portfolio/)**  
-
 
  *Abierto a oportunidades como Desarrollador Junior de Software*
