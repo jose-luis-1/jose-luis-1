@@ -34,7 +34,7 @@ Motivado por el crecimiento profesional dentro del sector tecnológico.
  **[Portafolio profesional (HTML, CSS, JavaScript)](https://jose-luis-1.github.io/portfolio/)**  
 
 
-
+---
 
 ##  Experiencia Laboral
 
