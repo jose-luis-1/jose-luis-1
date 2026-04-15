@@ -31,7 +31,7 @@ Motivado por el crecimiento profesional dentro del sector tecnológico.
 
 ##  Portfolio Web
 
- **[Portafolio profesional (HTML, CSS, JavaScript)](https://github.com/jose-luis-1/portfolio.git)**  
+ **[Portafolio (https://jose-luis-1.github.io/portfolio/)**  
 
 
 ---
